@@ -1,5 +1,0 @@
-{
-  "listen": ["socks://127.0.0.1:1080", "http://127.0.0.1:8080"],
-  "proxy": "https:/[LOGIN]:[PASSWORD]]@[DOMAIN]:[PORT]]?udp=1#[NAME]",
-  "log": ""
-}
