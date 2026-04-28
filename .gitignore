@@ -32,6 +32,6 @@ config.json
 *.log
 config.json
 naive_manager_ok.py
-naive_manager_ok2.pybc
+naive_manager_ok2.py
 naive_manager_ok3.py
 navie.exe
