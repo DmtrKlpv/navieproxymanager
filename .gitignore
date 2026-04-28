@@ -1,0 +1,37 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+build/
+
+# --- PyQt6 / UI ---
+# Если будешь использовать .ui файлы и конвертировать их
+# qt_resource_utils.py
+
+# --- PyInstaller (Сборка в EXE) ---
+# Эти папки создает PyInstaller при сборке
+build/
+dist/
+*.spec
+
+# --- OS / Windows ---
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# --- Project Specific ---
+# Рекомендуется НЕ пушить свой конфиг, если там реальные данные сервера
+# Вместо этого создай файл config.json.example и пушь его
+config.json
+
+# Логи и временные файлы
+*.log
+config.json
+naive_manager_ok.py
+naive_manager_ok2.py
+naive_manager_ok3.py
+navie.exe
